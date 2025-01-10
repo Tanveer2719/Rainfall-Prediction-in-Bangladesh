@@ -17,7 +17,7 @@ Preparing the dataset was one of the most challenging aspects of this project, a
    - Handling missing values.
    - Ensuring accurate alignment of records across time and stations.
 
-The resulting dataset provided a robust foundation for analysis and modeling. The dataset can be found in [link](./Rainfall%20Prediction%20in%20Bangladesh/Project_Codes/weatherdata%(1).csv).
+The resulting dataset provided a robust foundation for analysis and modeling. The dataset can be found in [link](https://github.com/Tanveer2719/Rainfall-Prediction-in-Bangladesh/blob/main/Rainfall%20Prediction%20in%20Bangladesh/Project_Codes/weatherdata%20(1).csv).
 
 ---
 
