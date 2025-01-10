@@ -65,4 +65,8 @@ Future work could focus on:
 - Integrating additional features, such as external climate indices or satellite data.
 - Optimizing hyperparameters to further enhance performance.
 - Extending this framework to other datasets and regions.
+  
 
+
+
+# A Detailed Report is Available at [Link](https://github.com/Tanveer2719/Rainfall-Prediction-in-Bangladesh/blob/main/Rainfall%20Prediction%20in%20Bangladesh/Project_Codes/Project_Report.pdf)
